@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC24-checkout without item</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5516704-b5bf-491a-bbbf-809c6d610faa</testCaseGuid>
+</TestCaseEntity>
